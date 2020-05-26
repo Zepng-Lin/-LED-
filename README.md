@@ -6,7 +6,7 @@
 
 ## 所需材料和技术栈
 
-云服务器 、树莓派 、LED灯、Springboot（Spring 、Spring MVC）
+云服务器 、树莓派 、LED灯、Springboot（Spring 、Spring MVC）、JAVA NIO、RPi.GPIO
 
 ## 整体流程
 
